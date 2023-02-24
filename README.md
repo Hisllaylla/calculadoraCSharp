@@ -1,6 +1,6 @@
 # P R O J E T O
 
-Esta calculadora trata-se de um dos exercícios feitos em C# pelo curso do [balta.io](balta.io), utlizando programação básica.
+Esta calculadora trata-se de um dos exercícios feitos em C# pelo curso do <a href="balta.io">balta.io</a>, utlizando programação básica.
 
 # O B J E T I V O
 
@@ -8,5 +8,5 @@ Esta calculadora trata-se de um dos exercícios feitos em C# pelo curso do [balt
 - [x] Identificar as melhores opções de acordo com o que foi pedido.
 - [x] Código limpo.
 
-# M E N S A G E M     F I N A L
+# mensagem final
 ![image](https://user-images.githubusercontent.com/73266806/221065115-63de26b4-c3df-47ac-81f4-5e5ee503475d.png)
